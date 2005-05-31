@@ -1,0 +1,18 @@
+diff -urN gruler-0.6.orig/gruler.desktop.in gruler-0.6/gruler.desktop.in
+--- gruler-0.6.orig/gruler.desktop.in	2005-05-31 22:31:24.981788808 +0200
++++ gruler-0.6/gruler.desktop.in	2005-05-31 23:14:26.819289848 +0200
+@@ -1,10 +1,11 @@
+-
+ [Desktop Entry]
+ Name=gRuler
+ Comment=Screen Ruler
++Comment[pl]=Linijka ekranowa
+ Exec=gruler
+-Icon=@PACKAGE_PIXMAPS_DIR@/gruler-icon.png
++Icon=gruler
+ Terminal=false
+ MultipleArgs=false
+ Type=Application
+-
++Encoding=UTF-8
++Categories=GTK;GNOME;Utility;
