@@ -1,5 +1,5 @@
 Summary:	GNOME Screen Ruler
-Summary(pl):	Linijka ekranowa dla GNOME
+Summary(pl.UTF-8):   Linijka ekranowa dla GNOME
 Name:		gruler
 Version:	0.6
 Release:	1
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A customizable screen ruler for GNOME.
 
-%description -l pl
+%description -l pl.UTF-8
 Konfigurowalna linijka ekranowa dla GNOME.
 
 %prep
