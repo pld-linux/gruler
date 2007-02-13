@@ -1,5 +1,5 @@
 Summary:	GNOME Screen Ruler
-Summary(pl.UTF-8):   Linijka ekranowa dla GNOME
+Summary(pl.UTF-8):	Linijka ekranowa dla GNOME
 Name:		gruler
 Version:	0.6
 Release:	1
