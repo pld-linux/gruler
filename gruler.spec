@@ -11,7 +11,7 @@ Patch0:		%{name}-desktop.patch
 URL:		http://linuxadvocate.org/projects/gruler/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	gettext-devel >= 0.10.40
+BuildRequires:	gettext-tools >= 0.10.40
 BuildRequires:	libgnomeui-devel >= 2.0.0
 BuildRequires:	libtool
 BuildRequires:	pkgconfig
